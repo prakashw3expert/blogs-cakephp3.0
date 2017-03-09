@@ -1,0 +1,11 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+/webroot/*
+/nbproject/
+/phpunit.xml.dist/
+/untitled.sublime-project
+/untitled.sublime-workspace
+/Backups/*
+/.travis.yml

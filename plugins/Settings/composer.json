@@ -1,0 +1,19 @@
+{
+  "name": "prakashw3expert/settings",
+  "description": "A Database setting plugin.",
+  "type": "cakephp-plugin",
+  "keywords": ["cakephp", "settings"],
+  "homepage": "https://bekground.com",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Settings\\": "./plugins/Settings/src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Settings\\Test\\": "./plugins/Settings/tests"
+    }
+  }
+  
+}

@@ -1,0 +1,227 @@
+
+msgstr ""
+"Project-Id-Version: 1.1\n"
+"POT-Creation-Date: 2015-05-01 20:08+0000\n"
+"PO-Revision-Date: 2015-06-19 11:45+0000\n"
+"Last-Translator: PRAKASH SAINI <prakashw3expert@gmail.com>\n"
+"Language-Team: PRAKASH SAINI <prakashw3expert@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Model validation messages
+
+msgid "notEmpty"
+msgstr "This field cannot be left blank."
+
+msgid "pleaseSelect"
+msgstr "Please select an option."
+
+msgid "maxLength"
+msgstr "This field must be no larger than %d characters long."
+
+msgid "maxLengthAra"
+msgstr "يجب أن يكون هذا المجال لم أكبر من %d حرفا."
+
+msgid "betweenLength"
+msgstr "Please enter least %d characters."
+
+msgid "validemail"
+msgstr "Please provide a valid email address."
+
+msgid "emailExists"
+msgstr "Email address already in use."
+
+msgid "isUnique"
+msgstr "This has already been taken."
+
+msgid "skillExists"
+msgstr "Skill already added."
+
+msgid "minLength"
+msgstr "This field must be at least %d characters long."
+
+msgid "passwordNotMatch"
+msgstr "Password don't matched."
+
+msgid "validDate"
+msgstr "Please Select valid date."
+
+msgid "CheckPhonevalid"
+msgstr "Please enter valid Phone number."
+
+msgid "checknumeric"
+msgstr "Please enter numeric value."
+
+msgid "checkWebUrl"
+msgstr "Please enter valid website URL."
+
+msgid "ValidVideoUrl"
+msgstr "Please enter valid video URL."
+
+msgid "characters"
+msgstr "Alphanumeric characters with spaces only."
+
+msgid "ValidTime"
+msgstr "Please enter valid time."
+
+msgid "ValidEndTime"
+msgstr "End time should be greater than start time."
+
+# Common action messages
+
+msgid "saved"
+msgstr "The %s has been saved."
+
+msgid "notSaved"
+msgstr "The %s could not be saved. Please try again."
+
+msgid "deleted"
+msgstr "The %s has been deleted."
+
+msgid "notDeleted"
+msgstr "The %s could not be deleted. Please try again."
+
+msgid "NotAuthorised"
+msgstr "You are not authorized to perform this action."
+
+msgid "invalidLoginDetails"
+msgstr "Invalid Email Address and Password."
+
+msgid "logoutMessage"
+msgstr "Log out successfully"
+
+msgid "selectoption"
+msgstr "Please select an action and try again."
+
+msgid "operationnotdone"
+msgstr "Operation could not be completed."
+
+msgid "notSelected"
+msgstr "Please select %s and try again."
+
+msgid "invalidAccess"
+msgstr "Invlid Access."
+
+msgid "EmailNotExistes"
+msgstr "Email address you entered does not exist in our database."
+
+msgid "NoResult"
+msgstr "Oops! There are no %s found."
+
+
+# Common title messages
+msgid "add"
+msgstr "Add %s"
+
+msgid "edit"
+msgstr "Edit %s"
+
+msgid "manage"
+msgstr "Manage %s"
+
+msgid "adminLogin"
+msgstr "Admin Login"
+
+msgid "CommonError"
+msgstr "An error occurred. Please try again."
+
+# User Contoller Meaasge - Login
+msgid "InvalidPassword"
+msgstr "Invalid password."
+
+msgid "InactiveAccount"
+msgstr "Your account is not activate.Please contact to us for more information."
+
+
+msgid "PedingVarification"
+msgstr "Your account is pending for verification. You may be contacted for verification process and we will notify you on activation. Thank you for your patience. For any queries contact us at %s."
+
+
+msgid "tagPlacehoder"
+msgstr "Add tags so that it easier for people to find this %s."
+
+# User Contoller Meaasage - Register
+msgid "RegisterSuccess"
+msgstr "Thank you for registering with us. Please check your e-mail inbox as your e-mail confirmation has just been sent."
+
+msgid "InactiveAccount"
+msgstr "Your account has not been activated. Please refer to validation email sent to your account."
+
+msgid "InvalidActCode"
+msgstr "Invalid Access"
+
+msgid "ConfirmationAccount"
+msgstr "Thank you for confirming your account. You can now login to your dashboard."
+
+msgid "EmailDBCheck"
+msgstr "Entered email addresss doesn't exist in our database."
+
+msgid "ResendActivation"
+msgstr "Please check your e-mail inbox as your  e-mail confirmation has just been sent."
+
+# User Contoller Meaasage - Forgot Password
+msgid "ForgotPassword"
+msgstr "Forgot Password"
+
+msgid "PasswordEmail"
+msgstr "Reset Password link has been sent on your mail address."
+
+msgid "NewPassword"
+msgstr "Please check your e-mail inbox as your new password has been sent."
+
+msgid "PasswordInactive"
+msgstr "Your account is inactive. Please contact our administrator."
+
+msgid "TokerExp"
+msgstr "Token has been expired."
+
+msgid "PasswordReset"
+msgstr "Your password has been reset successfully."
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Registration"
+msgstr "Registration"
+
+msgid "selectType"
+msgstr "Please select type first"
+
+msgid "selectCountry"
+msgstr "Please select your country"
+
+#Job Model's validation messages
+
+msgid "checkstartDate"
+msgstr "Start date must be less then End date"
+
+msgid "checkendDate"
+msgstr "End date must be greater then Start date"
+
+m
+
+msgid "PushAlert"
+msgstr "Push Alert"
+
+msgid "SearchLabel"
+msgstr "Search"
+#Retailer Section
+
+#Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
